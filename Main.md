@@ -1,5 +1,9 @@
 NAME: MICHAEL MADUMERE
+
 EMAIL: Ihunayamadu@gmail.com
+
 SLACK USERNAME: Michael
+
 TRACKS: Frontend, Backend, Design
+
 COURSES: Html, Css, Javascript, NodeJs.
