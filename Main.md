@@ -2,7 +2,7 @@ NAME: MICHAEL MADUMERE
 
 EMAIL: Ihunayamadu@gmail.com
 
-SLACK USERNAME: Michael
+SLACK USERNAME: i-Mhyke
 
 TRACKS: Frontend, Backend, Design
 
